@@ -1,0 +1,35 @@
+{
+  "name": "AI Fonts Generator — Stylish & Fancy Text Generator",
+  "short_name": "AI Fonts",
+  "description": "Generate 1000+ stylish, fancy, and cool fonts for Instagram, TikTok, Discord, and gaming profiles. Free, mobile-friendly, and powered by AI Remix.",
+  "icons": [
+    {
+      "src": "images/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0b1120",
+  "background_color": "#0b1120",
+  "lang": "en-US",
+  "dir": "ltr"
+}
